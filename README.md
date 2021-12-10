@@ -18,7 +18,6 @@ My dataset is “The Hot 100” songs from the Bilboard. Billboard is an America
 - Yu Tian
 ## Images
 
-{You can use this area for any images you want to include}
 
 <img src ="images/test.png" width="100px">
 
