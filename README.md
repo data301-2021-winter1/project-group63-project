@@ -1,7 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=5927172&assignment_repo_type=AssignmentRepo)
-# Group 63 - {Short snappy Title of your project}
+# Group 63 - Data Analysis of Thee Hot 100 songs on Billboard
 
-- Your title can change over time.
 
 ## Milestones
 
@@ -16,7 +15,7 @@ My dataset is “The Hot 100” songs from the Bilboard. Billboard is an America
 
 ## Team Members
 
-- Yu Tian: 
+- Yu Tian
 ## Images
 
 {You can use this area for any images you want to include}
